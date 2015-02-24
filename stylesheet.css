@@ -4,8 +4,8 @@ ul {
 }
 
 #Header {
+  position: relative;
   width: 300px;
-  margin: auto;
 }
 
 
