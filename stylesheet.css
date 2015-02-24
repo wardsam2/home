@@ -1,8 +1,19 @@
-h1 {
-	color: #000033;
-	}
 	
 ul {
-	font-family: Impact;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
+#Header {
+  color: #000033;
+  font-family: 'Pacifico', cursive;
+}
+
+
+#navbar {
+  height: 500px;
+	width: 200px;
+	border-radius: 5px;
+	display: block;
+  background-color: #33cccc;
+  float: left;
+}
