@@ -3,7 +3,7 @@ ul {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-#Header {
+.container {
   position: relative;
   width: 200px;
   height: auto;
@@ -16,6 +16,5 @@ ul {
 	border-radius: 5px;
 	display: block;
   background-color: #33cccc;
-  position: static;
   float: left;
 }
