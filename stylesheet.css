@@ -2,14 +2,3 @@
 ul {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
-
-
-
-#navbar {
-  height: 500px;
-	width: 200px;
-	border-radius: 5px;
-	display: block;
-  background-color: #33cccc;
-  float: left;
-}
