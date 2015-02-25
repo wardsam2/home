@@ -1,15 +1,11 @@
 	
-h1 {
-	font-family: 'Pacifico', cursive;
-}
-
 #list {
 	font-family: 'Open Sans Condensed', sans-serif;	
 	margin-left: -20px;
 }
 
 #navbar {
-	height: 600px;
+	height: 800px;
 	width: 200px;
 	background-color: #33CCCC;
 	border-radius: 3px;
