@@ -6,3 +6,12 @@ h1 {
 #list {
 	font-family: 'Open Sans Condensed', sans-serif;	
 }
+
+#navbar {
+	height: 400px;
+	width: 100px;
+	background-color: #33CCCC;
+	border: 2px solid black;
+	border-radius: 5px;
+	float: left;
+}
