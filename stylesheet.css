@@ -17,6 +17,7 @@ h1 {
 }
 
 #banner {
+	background-image: "banner_image.png"; 
 	height: 300px;
 	width: 600px;
 		
