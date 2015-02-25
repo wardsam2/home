@@ -17,9 +17,8 @@ h1 {
 }
 
 header {
-	background-image: url('header.jpeg');
+	background-image: url('header.jpg');
 	background-position: center;
 	width: 790px;
 	height: 160px;
-
 }
