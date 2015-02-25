@@ -10,7 +10,6 @@
 	background-color: #33CCCC;
 	border-radius: 3px;
 	float: left;
-	margin-top: 200px;
 }
 
 header {
@@ -18,4 +17,6 @@ header {
 	background-position: center;
 	width: 1120px;
 	height: 176px;
+	position: absolute;
+	margin-left: 200px;
 }
