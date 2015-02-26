@@ -1,7 +1,12 @@
 	
 #list {
+	text-decoration: none;
 	font-family: 'Open Sans Condensed', sans-serif;	
 	padding-top: 200px;
+}
+
+a:hover {
+	background-color: #009999;
 }
 
 #navbar {
