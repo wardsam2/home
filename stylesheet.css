@@ -1,8 +1,11 @@
 	
 #list {
-	text-decoration: none;
 	font-family: 'Open Sans Condensed', sans-serif;	
 	padding-top: 200px;
+}
+
+li {
+	text-decoration: none;
 }
 
 a:hover {
