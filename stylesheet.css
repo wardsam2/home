@@ -46,6 +46,8 @@ section {
 h2 {
   float: right;
   text-align: center;
+  margin-top: -20px;
+  margin-right: 50px;
 }
 
 p {
