@@ -45,9 +45,7 @@ section {
 
 h2 {
   float: right;
-  position: fixed;
-  margin-top: -120px;
-  margin-left: 300px;
+  text-align: center;
 }
 
 p {
@@ -55,4 +53,5 @@ p {
   font-size: 20px
     float: right;
   margin-top: 70px;
+  text-align: right;
 }
