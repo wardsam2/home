@@ -87,8 +87,10 @@ footer {
 
 #footer {
 	font-family: Open Sans Condensed;
-   	font-size: 15px	
-   	text-align: auto;
-   	margin-top: -20px;
+   	display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;;
    	color: #33CCCC;
 }
