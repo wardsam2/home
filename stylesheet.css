@@ -77,12 +77,11 @@ p {
 
 footer {
 	background: grey;
-	width: 960px;
+	width: 1160px;
 	height: 40px;
 	float: left;
 	text-align: center;
 	clear: both;
-	padding: 20px;
 
 }
 
@@ -90,6 +89,6 @@ footer {
 	font-family: Open Sans Condensed;
    	font-size: 15px	
    	text-align: auto;
-   	margin-top: -35px;
+   	margin-top: -20px;
    	color: #33CCCC;
 }
