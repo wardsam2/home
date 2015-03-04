@@ -74,3 +74,14 @@ p {
    text-align: right;
    margin-top: 20px;
 }
+
+footer {
+	background: grey;
+	width: 960px;
+	height: 40px;
+	float: left;
+	text-align: center;
+	clear: both;
+	padding: 20px;
+
+}
