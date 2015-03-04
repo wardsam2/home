@@ -83,17 +83,6 @@ footer {
 	clear: both;
 
 }
-
-#footer1 {
-	font-family: Open Sans Condensed;
-   	display: block;
--webkit-margin-before: 1em;
--webkit-margin-after: 1em;
--webkit-margin-start: 0px;
--webkit-margin-end: 0px;;
-   	color: #33CCCC;
-   	text-align: center;
-}
 #footer2 {
 	font-family: Open Sans Condensed;
    	display: block;
@@ -103,5 +92,4 @@ footer {
 -webkit-margin-end: 0px;;
    	color: #33CCCC;
    	text-align: center;
-   	margin-left: 20px;
 }
