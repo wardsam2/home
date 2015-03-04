@@ -1,7 +1,7 @@
 	
 #list {
 	font-family: 'Open Sans Condensed', sans-serif;	
-	padding-top: 200px;
+	padding-top: 100px;
 }
 
 a {
@@ -13,7 +13,7 @@ a:hover {
 }
 
 #navbar {
-	height: 900px;
+	height: 700px;
 	width: 200px;
 	background-color: #33CCCC;
 	border-radius: 3px;
@@ -63,6 +63,6 @@ p {
   font-family: Open Sans Condensed;
   font-size: 15px
     float: right;
-  margin-top: 100px;
+  margin-top: 30px;
   text-align: right;
 }
