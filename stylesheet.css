@@ -85,3 +85,9 @@ footer {
 	padding: 20px;
 
 }
+
+#footer {
+	font-family: Open Sans Condensed;
+   	font-size: 15px	
+   	text-align: auto;
+}
