@@ -1,8 +1,8 @@
 	
 #list {
 	font-family: 'Open Sans Condensed', sans-serif;	
-	padding-top: 100px;
 	list-style-type: none;
+	size: 15px;
 }
 
 a {
@@ -89,7 +89,7 @@ p {
 
 .modulesbody {
 	width: 760px;
-	min-height: 900px;
+	min-height: 500px;
 	margin-right: 200px;
 }
 
