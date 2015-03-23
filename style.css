@@ -75,6 +75,11 @@ p {
    text-align: right;
    margin-top: 20px;
 }
+.resumebody {
+	width: 760px;
+	min-height: 400px;
+
+}
 
 footer {
 	background: grey;
