@@ -25,6 +25,7 @@ a:hover {
 	font-family: 'Open Sans Condensed', sans-serif;	
 	list-style-type: none;
 	padding-top: 100px;
+	font-size: 10px;
 }
 
 header {
@@ -95,7 +96,7 @@ p {
 
 .modulesbody {
 	width: 760px;
-	min-height: 500px;
+	min-height: 440px;
 	margin-right: 200px;
 }
 
