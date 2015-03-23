@@ -81,6 +81,9 @@ p {
 	margin-right:200px;
 
 }
+a.resumelink:hover {
+	color: #009999;
+}
 
 footer {
 	background: grey;
