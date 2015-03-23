@@ -21,6 +21,12 @@ a:hover {
 	float: left;
 }
 
+#navlist {
+	font-family: 'Open Sans Condensed', sans-serif;	
+	list-style-type: none;
+	padding-top: 100px;
+}
+
 header {
 	background-image: url('pictures/header.jpg');
 	background-position: center;
