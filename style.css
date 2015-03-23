@@ -7,6 +7,7 @@
 
 a {
 	text-decoration: none;
+	color: #00000;
 }
 
 a:hover {
@@ -14,6 +15,7 @@ a:hover {
 }
 a:visited {
 	text-decoration: none;
+	color: #00000;
 }
 
 #navbar {
