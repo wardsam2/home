@@ -104,9 +104,10 @@ p {
 }
 
 .modulesbody {
-	width: 200px;
+	width: 400px;
 	min-height: 470px;
 	margin-right: 700px;
+	text-align: left;
 }
 
 footer {
