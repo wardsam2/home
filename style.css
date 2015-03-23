@@ -82,9 +82,9 @@ p {
    margin-top: 20px;
 }
 .resumebody {
-	width: 20px;
+	width: 760px;
 	min-height: 400px;
-	margin-right:500px;
+	margin-right:200px;
 }
 .resumelink {
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -94,9 +94,9 @@ p {
 }
 
 .modulesbody {
-	width: 760px;
+	width: 200px;
 	min-height: 440px;
-	margin-right: 200px;
+	margin-right: 300px;
 }
 
 footer {
