@@ -107,7 +107,7 @@ p {
 	width: 400px;
 	min-height: 470px;
 	margin-top -500px;
-	position: relative;
+	position: absolute;
 	text-align: left;
 	
 }
