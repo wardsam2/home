@@ -108,6 +108,7 @@ p {
 	min-height: 470px;
 	margin-right: 700px;
 	text-align: left;
+	float: left;
 }
 
 footer {
