@@ -17,10 +17,6 @@ a {
 a:hover {
 	background-color: #009999;
 }
-a:visited {
-	text-decoration: none;
-	color: #00000;
-}
 
 #navbar {
 	height: 705px;
