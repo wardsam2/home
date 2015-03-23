@@ -79,10 +79,12 @@ p {
 	width: 760px;
 	min-height: 400px;
 	margin-right:200px;
-
 }
-a.resumelink:hover {
-	color: #009999;
+.resumelink {
+	font-family: 'Open Sans Condensed', sans-serif;
+	size: 20px;
+	text-align: right;
+	margin-top: 20px;
 }
 
 footer {
