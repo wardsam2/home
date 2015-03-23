@@ -87,6 +87,12 @@ p {
 	margin-top: 20px;
 }
 
+.modulesbody {
+	width: 500px;
+	min-height: 500px;
+	margin-right: 100px;
+}
+
 footer {
 	background: grey;
 	width: 1160px;
