@@ -106,7 +106,8 @@ p {
 .modulesbody {
 	width: 400px;
 	min-height: 470px;
-	margin-right: 700px;
+	margin-left: 100px;
+	margin-top -500px;
 	text-align: left;
 	
 }
