@@ -81,7 +81,11 @@ h2 {
 .contactp {
   margin-top: -15px;
   text-align: left;
-  padding: 100px;
+}
+
+#email {
+	padding: 100px;
+	text-align: left;
 }
 
 p {
