@@ -2,7 +2,6 @@
 #contactbody {
 	margin-right: 500px;
 	background: white;
-	padding-top: 100px;
 }
 
 
@@ -82,7 +81,7 @@ h2 {
 .contactp {
   margin-top: -15px;
   text-align: left;
-  position: relative;
+  padding: 100px;
 }
 
 p {
