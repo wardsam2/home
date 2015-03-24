@@ -73,6 +73,7 @@ section {
 
 h2 {
   float: left;
+  position: relative;
   text-align: center;
   margin-top: -5px;
   margin-right: 50px;
