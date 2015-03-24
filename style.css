@@ -26,7 +26,8 @@ header {
 	font-family: 'Open Sans Condensed', sans-serif;	
 	list-style-type: none;
 	padding-top: 100px;
-	margin-left: 20px;
+	margin-left: 25px;
+	size: 15px;
 }
 ul {
 	list-style-type: none;	
