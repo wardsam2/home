@@ -7,6 +7,9 @@ a {
 a:hover {
 	background-color: #009999;
 }
+a:visited {
+	color: #000000;
+}
 header {
 	background-image: url('pictures/header.jpg');
 	background-position: center;
