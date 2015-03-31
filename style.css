@@ -119,6 +119,7 @@ p {
 }
 #design {
 	float left;
+	margin-top: 300px;
 }
 #video {
 	float: left;
