@@ -114,10 +114,15 @@ p {
 	margin-top: 90px;
 }
 /*portfolio*/
-.portpics {
-    position: static;
+#writing {
+	float: left;
 }
-
+#design {
+	float left;
+}
+#video {
+	float: left;
+}
 /*footer*/
 footer {
 	background: grey;
