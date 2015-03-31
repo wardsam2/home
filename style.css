@@ -115,25 +115,25 @@ p {
 }
 /*portfolio*/
 #portfolio {
-	margin-left: 30px;
+	margin-left: 50px;
 	padding-top: 200px;
 	position: relative;
 	font-family: 'Pacifico', cursive;
 }
 #writing {
 	float: left;
-	margin-top: 300px;
+	margin-top: 100px;
 	position: relative;
 }
 #design {
 	float: left;
-	margin-top: 300px;
+	margin-top: 100px;
 	margin-left: 100px;
 	position: relative;
 }
 #video {
 	float: right;
-	margin-top: 300px;
+	margin-top: 100px;
 	margin-right: 100px;
 	position: relative;
 }
