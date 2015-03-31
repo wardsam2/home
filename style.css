@@ -124,18 +124,15 @@ p {
 }
 #writing {
 	float: left;
-	margin-top: 100px;
 	position: relative;
 }
 #design {
 	float: left;
-	margin-top: 100px;
 	margin-left: 100px;
 	position: relative;
 }
 #video {
 	float: right;
-	margin-top: 100px;
 	margin-right: 100px;
 	position: relative;
 }
