@@ -116,9 +116,9 @@ p {
 /*portfolio*/
 #portfolio {
 	margin-left: 20px;
+	margin-top: 200px;
 	font-family: 'Pacifico', cursive;
 }
-
 #writing {
 	float: left;
 	margin-top: 300px;
