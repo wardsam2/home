@@ -116,14 +116,16 @@ p {
 /*portfolio*/
 #writing {
 	float: left;
+	margin-top: 300px;
 	position: relative;
 }
 #design {
-	float left;
+	float: left;
+	margin-top: 300px;
 	position: relative;
 }
 #video {
-	float: left;
+	float: right;
 	margin-top: 300px;
 	margin-right: 100px;
 	position: relative;
