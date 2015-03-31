@@ -120,9 +120,11 @@ p {
 }
 #design {
 	float left;
+	margin-top: 300px;
 }
 #video {
 	float: left;
+	margin-top: 300px;
 }
 /*footer*/
 footer {
