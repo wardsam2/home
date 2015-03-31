@@ -114,7 +114,7 @@ p {
 	margin-top: 90px;
 }
 /*portfolio*/
-.portpics.resize {
+.portpics {
     max-width:200px;
     height: auto;
 }
