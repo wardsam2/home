@@ -115,7 +115,8 @@ p {
 }
 /*portfolio*/
 #portfolio {
-	margin-top: 300px;
+	margin-top: 200px;
+	font-family: 'Pacifico', cursive;
 }
 
 #writing {
@@ -133,7 +134,6 @@ p {
 #video {
 	float: right;
 	margin-top: 300px;
-	margin-right: 140px;
 	position: relative;
 }
 /*footer*/
