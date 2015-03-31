@@ -115,8 +115,8 @@ p {
 }
 /*portfolio*/
 #portfolio {
-	margin-left: 20px;
-	margin-top: 200px;
+	margin-left: 30px;
+	padding-top: 200px;
 	position: relative;
 	font-family: 'Pacifico', cursive;
 }
