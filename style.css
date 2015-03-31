@@ -114,6 +114,10 @@ p {
 	margin-top: 90px;
 }
 /*portfolio*/
+#portfolio {
+	margin-top: 300px;
+}
+
 #writing {
 	float: left;
 	margin-top: 300px;
