@@ -115,8 +115,7 @@ p {
 }
 /*portfolio*/
 .portpics {
-    max-width:200px;
-    height: auto;
+    position: static;
 }
 
 /*footer*/
