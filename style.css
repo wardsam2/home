@@ -113,6 +113,12 @@ p {
 	font-size: 15px;
 	margin-top: 90px;
 }
+/*portfolio*/
+.portpics.resize {
+    max-width:200px;
+    height: auto;
+}
+
 /*footer*/
 footer {
 	background: grey;
