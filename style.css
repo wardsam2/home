@@ -117,17 +117,18 @@ p {
 #writing {
 	float: left;
 	margin-top: 300px;
+	margin-right: 75px;
 	position: relative;
 }
 #design {
 	float: left;
 	margin-top: 300px;
+	margin-right: 100px;
 	position: relative;
 }
 #video {
 	float: right;
 	margin-top: 300px;
-	margin-right: 100px;
 	position: relative;
 }
 /*footer*/
