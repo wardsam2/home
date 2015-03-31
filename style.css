@@ -116,14 +116,17 @@ p {
 /*portfolio*/
 #writing {
 	float: left;
+	position: relative;
 }
 #design {
 	float left;
+	position: relative;
 }
 #video {
 	float: left;
 	margin-top: 300px;
 	margin-right: 100px;
+	position: relative;
 }
 /*footer*/
 footer {
