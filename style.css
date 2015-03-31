@@ -114,16 +114,17 @@ p {
 	margin-top: 90px;
 }
 /*portfolio*/
-/*#writing {
+#writing {
 	float: left;
 	margin-top: 300px;
-}*/
+}
 #design {
 	float left;
 }
 #video {
 	float: left;
 	margin-top: 300px;
+	margin-right: 100px;
 }
 /*footer*/
 footer {
