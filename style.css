@@ -140,6 +140,11 @@ p {
 	margin-right: 175px;
 	position: relative;
 }
+
+h3 {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
 /*footer*/
 footer {
 	background: grey;
