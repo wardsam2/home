@@ -153,6 +153,12 @@ h3 {
 	margin-left: 50px;
 	font-family: 'Pacifico', cursive;
 }
+#designs {
+	float: left;
+	position: relative;
+	margin-left: 50px;
+	font-family: 'Pacifico', cursive;
+}
 /*footer*/
 footer {
 	background: grey;
