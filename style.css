@@ -1,5 +1,12 @@
 	
 /*General*/
+#container {
+	background: white;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Open Sans Condensed', sans serif;
+}
 a {
 	text-decoration: none;
 	color: #000000;
