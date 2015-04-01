@@ -150,6 +150,8 @@ h3 {
 #writing {
 	float: left;
 	position: relative;
+	margin-left: 50px;
+	margin-top: -100px;
 	font-family: 'Pacifico', cursive;
 }
 /*footer*/
