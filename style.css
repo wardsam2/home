@@ -160,6 +160,12 @@ h3 {
 	margin-top: 250px;
 	font-family: 'Pacifico', cursive;
 }
+#videos {
+	float: left;
+	position: relative;
+	margin-left: 50px;
+	margin-top: 250px;
+	font-family: 'Pacifico', cursive;
 /*footer*/
 footer {
 	background: grey;
