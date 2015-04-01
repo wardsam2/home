@@ -135,9 +135,9 @@ p {
 	position: relative;
 }
 #video {
-	float: right;
+	float: left;
 	margin-top: 350px;
-	margin-right: 200px;
+	margin-right: 75px;
 	position: relative;
 }
 
