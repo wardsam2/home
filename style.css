@@ -175,14 +175,12 @@ h3 {
 footer { 
   clear:both;
   width: 980px;
-  font:arial, sans-serif;
-  text-shadow: 1px 1px #000;
+  font:'Open Sans Condensed', sans-serif;
   height: 30px;
   padding: 5px 0 20px 0;
   text-align: center; 
-  color: #FFF;
+  color: #A1A1A1;
   margin-top: 25px;
-  background: transparent url(../images/transparent.png);
 }
 
 footer p { 
