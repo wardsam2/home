@@ -96,9 +96,9 @@ p {
 /*modules page*/
 .modulesbody {
 	width: 400px;
-	min-height: 600px;
+	min-height: 500px;
 	margin-right: 600px;
-	position: relative;
+	position: absolute;
 }
 .contactp {
   margin-top: -15px;
