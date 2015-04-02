@@ -57,6 +57,9 @@ section {
 	font-size: 20pt;
 	overflow: auto;
 }
+aside {
+	font-family: Pacifico, cursive; 
+}
 h2 {
   float: left;
   text-align: center;
