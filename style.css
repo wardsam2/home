@@ -185,6 +185,6 @@ footer {
 footer p { 
   text-align: center;
   position: relative;
-  float: left;
+  margin-right: 560px;
   margin-top: 10px;
 }
