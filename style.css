@@ -46,7 +46,7 @@ ul {
 section {
 	background: #E0DDDD;
 	width: 400px;
-	height: 350px;
+	height: 340px;
 	float: right;
 	margin-top: 200px;
 	margin-right: 95px;
@@ -74,7 +74,7 @@ p {
    font-size: 20px;
    float: right;
    text-align: right;
-   margin-top: 10px;
+   margin-top: 5px;
 }
 /*resume page*/
 .resumebody {
