@@ -100,8 +100,8 @@ p {
 /*contact page*/
 #contactbody {
 	margin-top: 300px;
-	margin-right: 200px;
 	background: white;
+	float: left;
 }
 #email {
 	padding-top: 5px;
