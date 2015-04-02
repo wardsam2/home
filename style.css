@@ -172,15 +172,23 @@ h3 {
 	font-family: 'Pacifico', cursive;
 }
 /*footer*/
-footer {
-	background: grey;
-	width: 1160px;
-	height: 40px;
-	float: left;
-	clear: both;
+footer { 
+  clear:both;
+  width: 980px;
+  font:arial, sans-serif;
+  text-shadow: 1px 1px #000;
+  height: 30px;
+  padding: 5px 0 20px 0;
+  text-align: center; 
+  color: #FFF;
+  margin-top: 25px;
+  background: transparent url(../images/transparent.png);
 }
-footer p {
+
+footer p { 
   text-align:center;
   line-height: 1.7em;
+  padding: 0 0 10px 0;
+  margin-left:20px;
   float:left;
 }
