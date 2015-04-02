@@ -80,10 +80,11 @@ p {
    margin-top: 5px;
 }
 /*resume page*/
-.resumebody {
+#resumebody {
 	width: 760px;
 	min-height: 400px;
 	margin-right:200px;
+	position: relative;
 }
 .resumelink {
 	font-family: 'Open Sans Condensed', sans-serif;
