@@ -178,6 +178,7 @@ footer {
 	height: 40px;
 	float: left;
 	clear: both;
+	position: relative;
 }
 #footer2 {
 	font-family: Open Sans Condensed;
