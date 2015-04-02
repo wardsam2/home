@@ -51,6 +51,7 @@ section {
 	width: 400px;
 	height: 340px;
 	float: left;
+	position: relative;
 	margin-top: 200px;
 	padding: 10px;
 	font-family: Pacifico, cursive; 
