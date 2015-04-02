@@ -50,13 +50,11 @@ section {
 	background: #E0DDDD;
 	width: 400px;
 	height: 340px;
-	float: left;
+	float: right;
 	position: relative;
-	margin-top: 200px;
 	padding: 10px;
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
-	overflow: auto;
 }
 h2 {
   float: left;
