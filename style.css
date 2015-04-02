@@ -180,10 +180,8 @@ footer {
 	clear: both;
 	position: relative;
 }
-#footer2 {
-	font-family: Open Sans Condensed;
-   	display: block;
-   	color: #33CCCC;
-   	text-align: center;
-   	position:absolute;
+footer p {
+  text-align:center;
+  line-height: 1.7em;
+  float:left;
 }
