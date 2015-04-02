@@ -52,7 +52,7 @@ section {
 	height: 330px;
 	float: right;
 	padding: 10px;
-	position: absolute;
+	position: relative;
 	margin-right: -100px;
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
