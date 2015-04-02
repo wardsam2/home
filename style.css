@@ -99,6 +99,7 @@ p {
 }
 /*contact page*/
 #contactbody {
+	margin-top: 300px;
 	margin-right: 500px;
 	background: white;
 }
@@ -180,4 +181,5 @@ footer {
    	display: block;
    	color: #33CCCC;
    	text-align: center;
+   	position: relative;
 }
