@@ -131,6 +131,10 @@ p {
 	font-family: 'Pacifico', cursive;
 }
 #writing {
+	float: left;
+	position: relative;
+	margin-left: 50px;
+	margin-top: 350px;
 }
 #design {
 	float: left;
@@ -151,21 +155,7 @@ h3 {
 	margin-top: -7px;
 }
 /*port pages*/
-#writing {
-	float: left;
-	position: relative;
-	margin-left: 50px;
-	margin-top: 350px;
-	font-family: 'Pacifico', cursive;
-}
-#designs {
-	float: left;
-	position: relative;
-	margin-left: 50px;
-	margin-top: 250px;
-	font-family: 'Pacifico', cursive;
-}
-#videos {
+.portpage {
 	float: left;
 	position: relative;
 	margin-left: 50px;
