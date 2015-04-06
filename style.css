@@ -126,7 +126,7 @@ p {
 	float: left;
 	margin-left: 50px;
 	padding-top: 200px;
-	position: relative;
+	position: absolute;
 	font-family: 'Pacifico', cursive;
 }
 #writing {
