@@ -166,7 +166,7 @@ h3 {
 #factsheet {
 	position: relative;
 	padding-top: 160px;
-	padding-left: 50px;
+	margin-left: 50px;
 }
 /*footer*/
 footer {
