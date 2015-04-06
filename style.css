@@ -164,8 +164,9 @@ h3 {
 }
 
 #factsheet {
-	width: 300px;
+	width: 200px;
 	height: auto;
+	position: relative;
 }
 /*footer*/
 footer {
