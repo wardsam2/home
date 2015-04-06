@@ -177,6 +177,13 @@ h3 {
 	margin-top: 300px;
 	padding: 20px;
 }
+.picscaps {
+	position: relative;
+	float: left;
+	margin-top: 300px;
+	margin-left: -200px;
+	padding: 20px;
+}
 
 #factsheet {
 	position: relative;
