@@ -167,6 +167,11 @@ h3 {
   font-size: 15px;
   margin-top: 20px;
 }
+.portcaps {
+	margin-top: 300px;
+	float: left;
+	position: relative;
+}
 
 #factsheet {
 	position: relative;
