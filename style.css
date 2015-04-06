@@ -172,6 +172,7 @@ h3 {
 }
 .portcaps {
 	position: relative;
+	float: right;
 }
 
 #factsheet {
