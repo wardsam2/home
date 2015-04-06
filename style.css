@@ -132,9 +132,6 @@ p {
 }
 #writing {
 	float: left;
-	margin-left: -300px;
-	margin-top: 350px;
-	position: relative;
 }
 #design {
 	float: left;
