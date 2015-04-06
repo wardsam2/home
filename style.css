@@ -162,6 +162,10 @@ h3 {
 	margin-top: 250px;
 	font-family: 'Pacifico', cursive;
 }
+#endlinks {
+  font-family: Open Sans Condensed;
+  font-size: 15px;
+}
 
 #factsheet {
 	position: relative;
