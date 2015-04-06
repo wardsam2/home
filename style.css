@@ -162,6 +162,11 @@ h3 {
 	margin-top: 250px;
 	font-family: 'Pacifico', cursive;
 }
+
+#factsheet {
+	width: 300px;
+	height: auto;
+}
 /*footer*/
 footer {
 	background: grey;
