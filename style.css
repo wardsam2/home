@@ -95,8 +95,6 @@ p {
 }
 /*modules page*/
 #modulesbody {
-    width:400px;
-    height:500px;
     background-color:#E0DDDD;
     overflow-y: scroll;
     max-width:400px;
