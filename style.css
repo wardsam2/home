@@ -187,6 +187,7 @@ h3 {
 #firstcap {
 	position: relative;
 	float: left;
+	padding: 20px;
 	margin-top: 300px;
 	margin-left: -200px;
 }
