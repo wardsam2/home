@@ -95,6 +95,15 @@ p {
 }
 /*modules page*/
 #modulesbody {
+	background: #E0DDDD;
+	width: 400px;
+	height: 330px;
+	float: left;
+	padding: 10px;
+	position: relative;
+	margin-top: 200px;
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-size: 20pt;
 }
 .contactp {
   margin-top: -15px;
