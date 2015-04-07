@@ -94,11 +94,7 @@ p {
 	font-size: 15px;
 }
 /*modules page*/
-.modulesbody {
-	width: 400px;
-	height: 500px;
-	margin-right: 600px;
-	position: relative;
+#modulesbody {
 }
 .contactp {
   margin-top: -15px;
