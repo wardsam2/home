@@ -95,15 +95,16 @@ p {
 }
 /*modules page*/
 #modulesbody {
-    width:249px;
-    height:299px;
+    width:400px;
+    height:500px;
     background-color:#E0DDDD;
     overflow-y: scroll;
-    max-width:230px;
-    max-height:100px;
+    max-width:400px;
+    max-height:500px;
     float: left;
     position: relative;
     margin-top: 200px;
+    padding: 30px;
     font-family: 'Open Sans Condensed', sans-serif; 
     font-size: 20pt;
 }
