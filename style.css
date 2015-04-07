@@ -97,8 +97,9 @@ p {
 #modulesbody {
     background-color:#E0DDDD;
     overflow-y: scroll;
+    width: 400px;
     max-width:400px;
-    max-height:500px;
+    max-height:400px;
     float: left;
     position: relative;
     margin-top: 200px;
