@@ -3,3 +3,16 @@ ul {
   text-decoration: none;
   color: #33CCCC;
   }
+a {
+  font-family: 'Open Sans Condensed', sans-serif;	
+  text-decoration: none;
+  color: #33CCCC;
+}
+a: visited {
+  font-family: 'Open Sans Condensed', sans-serif;	
+  text-decoration: none;
+  color: #33CCCC;
+}
+a: hover {
+  background-color: #C0C0C0;
+}
