@@ -217,6 +217,10 @@ h3 {
 	font-family: 'Open Sans Condensed', sans-serif;	
 	font-size: 15pt;
 }
+.videos {
+	margin-top: 300px;
+	margin-left: 100px;
+}
 /*footer*/
 footer {
 	background: grey;
