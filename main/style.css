@@ -111,6 +111,21 @@ p {
   margin-top: -15px;
   text-align: left;
 }
+
+#mod10 {
+	position: relative;
+	float: left;
+	width: 400px;
+	height: auto;
+}
+.mod10 {
+	font-family: 'Open Sans Condensed', sans-serif; 
+    	font-size: 15pt;	
+}
+#mod10pic {
+	position: relative;
+	float: right;
+}
 /*contact page*/
 #contactbody {
 	margin-top: 200px;
