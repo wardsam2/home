@@ -23,3 +23,9 @@ a: hover {
 h2 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
+p {
+  font-family: 'Open Sans Condensed', sans-serif;	
+  text-decoration: none;
+  color: #00a9ae;
+  font-size: 20px;
+}
