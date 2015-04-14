@@ -116,11 +116,12 @@ p {
 	position: relative;
 	float: left;
 	width: 400px;
-	height: auto;
+	height: 600;
 }
 .mod10 {
 	font-family: 'Open Sans Condensed', sans-serif; 
-    	font-size: 15pt;	
+    	font-size: 10pt;
+    	float: left;
 }
 #mod10pic {
 	position: relative;
