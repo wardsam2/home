@@ -116,7 +116,7 @@ p {
 	position: relative;
 	float: left;
 	width: 500px;
-	height: 900;
+	height: 1000;
 }
 .mod10 {
 	font-family: 'Open Sans Condensed', sans-serif; 
@@ -128,6 +128,7 @@ p {
 #mod10pic {
 	position: relative;
 	float: right;
+	margin-top: 200px;
 }
 #mod10head {
 	background-image: none;
