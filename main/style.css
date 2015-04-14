@@ -122,6 +122,7 @@ p {
 	font-family: 'Open Sans Condensed', sans-serif; 
     	font-size: 10pt;
     	float: left;
+    	margin: 0 0 0 0;
 }
 #mod10pic {
 	position: relative;
