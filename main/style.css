@@ -120,9 +120,10 @@ p {
 }
 .mod10 {
 	font-family: 'Open Sans Condensed', sans-serif; 
-    	font-size: 10pt;
+    	font-size: 15pt;
     	float: left;
     	margin: 0 0 0 0;
+    	text-align: left;
 }
 #mod10pic {
 	position: relative;
