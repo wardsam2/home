@@ -116,7 +116,8 @@ p {
 	position: relative;
 	float: left;
 	width: 500px;
-	height: 800;
+	height: 900;
+	margin-top: -10px;
 }
 .mod10 {
 	font-family: 'Open Sans Condensed', sans-serif; 
