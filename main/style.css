@@ -120,6 +120,14 @@ p {
 	background-color: #ffffff;
 	margin-left: 30px;
 }
+#mod11 {
+	position: relative;
+	float: center;
+	width: 500px;
+	height: 1000;
+	background-color: #ffffff;
+	margin-left: 30px;
+}
 .mod10 {
 	font-family: 'Open Sans Condensed', sans-serif; 
     	font-size: 13pt;
@@ -132,7 +140,7 @@ p {
 	float: right;
 	margin-top: 200px;
 }
-#mod10head {
+.mod10head {
 	background-image: none;
 	float: center;
 	font-size: 30px;
