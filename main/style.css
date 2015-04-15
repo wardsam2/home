@@ -122,11 +122,10 @@ p {
 }
 #mod11 {
 	position: relative;
-	float: center;
 	width: 500px;
 	height: 1000;
 	background-color: #ffffff;
-	margin-left: 30px;
+	margin-top: -5px;
 }
 .mod10 {
 	font-family: 'Open Sans Condensed', sans-serif; 
