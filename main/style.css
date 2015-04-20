@@ -2,7 +2,7 @@
 /*General*/
 #container {
 	width: 960px;
-	margin: auto;
+	margin: 0 auto;
 }
 a {
 	text-decoration: none;
