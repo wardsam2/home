@@ -89,8 +89,9 @@ p {
 }
 .resumelink {
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-align: right;
-	float: right;
+	position: relative;
+	text-align: left;
+	float: left;
 	font-size: 15px;
 }
 /*modules page*/
