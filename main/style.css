@@ -90,9 +90,9 @@ p {
 .resumelink {
 	font-family: 'Open Sans Condensed', sans-serif;
 	position: relative;
-	text-align: left;
-	float: left;
+	float: right;
 	font-size: 15px;
+	margin-top: 30px;
 }
 /*modules page*/
 #modulesbody {
