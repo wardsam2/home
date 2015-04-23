@@ -91,10 +91,12 @@ p {
 }
 /*resume page*/
 #resumebody {
+	float: left;
 	position: relative;
 	width: 760px;
 	min-height: 500px;
 	font-size: 20px;
+	margin-right: 800px;
 }
 /*modules page*/
 #modulesbody {
