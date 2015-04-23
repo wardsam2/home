@@ -60,7 +60,7 @@ section {
 }
 .buttons {
 	float: right;
-	display: block;
+	display: inline-block;
 	position: relative;
 }
 h2 {
