@@ -93,6 +93,7 @@ p {
 }
 /*resume page*/
 #resumebody {
+	float: left;
 	width: 760px;
 	min-height: 500px;
 	margin-right:200px;
