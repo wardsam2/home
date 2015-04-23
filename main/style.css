@@ -61,7 +61,7 @@ section {
 .buttons {
 	float: right;
 	display: block;
-	position: fixed;
+	position: relative;
 }
 h2 {
   float: left;
