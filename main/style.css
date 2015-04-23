@@ -95,7 +95,7 @@ p {
 	width: 760px;
 	min-height: 500px;
 	margin-right:200px;
-	position: absolute;
+	position: relative;
 	font-size: 20px;
 }
 /*modules page*/
