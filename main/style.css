@@ -72,6 +72,13 @@ section {
 	margin-top: 300px;
 	margin-right: 70px;
 }
+#portbuttons {
+	width: 50px;
+	position: relative;
+	float: right;
+	margin-top: 300px;
+	margin-right: 70px;
+}
 h2 {
   float: left;
   text-align: center;
