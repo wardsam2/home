@@ -68,6 +68,7 @@ section {
 #resbuttons {
 	width: 50px;
 	position: relative;
+	float: right;
 }
 h2 {
   float: left;
