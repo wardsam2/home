@@ -140,7 +140,7 @@ p {
 #mod11 {
 	position: relative;
 	width: 500px;
-	height: 1000;
+	height: auto;
 	background-color: #ffffff;
 	margin-right: 550px;
 	margin-top: 150px;
