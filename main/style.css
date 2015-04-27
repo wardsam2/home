@@ -110,25 +110,7 @@ p {
 	padding: 0px;
 	margin-left: 50px;
 }
-/*modules page*/
-#modulesbody {
-    background-color:#E0DDDD;
-    overflow-y: scroll;
-    width: 400px;
-    max-width:400px;
-    max-height:400px;
-    float: left;
-    position: relative;
-    margin-top: 200px;
-    margin-left: 30px;
-    font-family: 'Open Sans Condensed', sans-serif; 
-    font-size: 20pt;
-}
-.contactp {
-  margin-top: -15px;
-  text-align: left;
-}
-
+/*modules*/
 #mod10 {
 	position: relative;
 	float: left;
@@ -163,27 +145,10 @@ p {
 	font-family: Pacifico, cursive; 
 	margin-top: 20px;
 }
-/*contact page*/
-#contactbody {
-	margin-top: 200px;
-	background: white;
-	float: left;
-}
-#email {
-	padding-top: 5px;
-	margin-top: 40px;
-	text-align: left;
-}
-#list {
-	font-family: 'Open Sans Condensed', sans-serif;	
-	list-style-type: none;
-	font-size: 15px;
-	margin-top: 90px;
-}
 /*portfolio*/
 #portfolio {
 	float: left;
-	margin-left: 200px;
+	margin-left: 300px;
 	padding-top: 200px;
 	padding-bottom: 100px;
 	position: absolute;
