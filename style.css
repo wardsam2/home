@@ -12,14 +12,6 @@ a {
   text-decoration: none;
   color: #00a3a7;
 }
-a: visited {
-  font-family: 'Open Sans Condensed', sans-serif;	
-  text-decoration: none;
-  color: #00a3a7;
-}
-a: hover {
-  background-color: #C0C0C0;
-}
 h2 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
