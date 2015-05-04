@@ -61,9 +61,8 @@ section {
 .buttons {
 	float: right;
 	position: relative;
-	width: 50px;
+	width: 200px;
 	margin-top: 300px;
-	margin-right: -550px;
 }
 #resbuttons {
 	width: 200px;
