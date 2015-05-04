@@ -109,6 +109,9 @@ p {
 	padding: 0px;
 	margin-left: 50px;
 }
+object {
+	float: center;
+}
 /*modules*/
 #mod10 {
 	position: relative;
