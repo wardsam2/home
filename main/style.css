@@ -53,6 +53,7 @@ section {
 	float: left;
 	padding: 10px;
 	position: absolute;
+	margin-left: 500px;
 	margin-top: 200px;
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
