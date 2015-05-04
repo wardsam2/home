@@ -103,14 +103,11 @@ p {
 #resumebody {
 	float: left;
 	position: relative;
-	width: 760px;
+	width: 740px;
 	min-height: 500px;
 	font-size: 20px;
 	padding: 0px;
 	margin-left: 50px;
-}
-object {
-	float: center;
 }
 /*modules*/
 #mod10 {
