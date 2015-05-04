@@ -48,12 +48,11 @@ ul {
 }
 section {
 	background: #E0DDDD;
-	width: 400px;
+	width: 600px;
 	height: 330px;
 	float: right;
 	padding: 10px;
 	position: relative;
-	margin-right: -100px;
 	margin-top: 200px;
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
