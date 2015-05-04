@@ -66,9 +66,10 @@ section {
 	margin-right: -550px;
 }
 #resbuttons {
-	width: 400px;
+	width: 200px;
 	position: relative;
 	float: right;
+	padding-top: 200px;
 }
 #portbuttons {
 	width: 50px;
