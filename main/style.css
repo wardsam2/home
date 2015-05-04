@@ -58,6 +58,13 @@ section {
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
 }
+#buttons {
+	width: 200px;
+	position: relative;
+	float: right;
+	padding-top: 160px;
+	margin-right: -40px;
+}
 #resbuttons {
 	width: 200px;
 	position: relative;
