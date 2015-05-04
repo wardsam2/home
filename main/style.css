@@ -60,7 +60,7 @@ section {
 }
 #buttons {
 	width: 200px;
-	position: relative;
+	position: absolute;
 	float: right;
 	padding-top: 160px;
 }
