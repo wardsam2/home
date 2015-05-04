@@ -72,11 +72,10 @@ section {
 	padding-top: 160px;
 }
 #portbuttons {
-	width: 50px;
+	width: 200px;
 	position: relative;
 	float: right;
-	margin-top: 300px;
-	margin-right: 70px;
+	padding-top: 160px;
 }
 h2 {
   float: left;
