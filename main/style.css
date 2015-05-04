@@ -217,7 +217,7 @@ h3 {
 #factsheet {
 	position: relative;
 	float: left;
-	padding-top: 200px;
+	padding-top: 210px;
 	padding-left: 50px;
 }
 #fsdes {
@@ -228,7 +228,7 @@ h3 {
 	padding: 10px;
 	margin-left: 50px;
 	position: relative;
-	margin-top: 200px;
+	margin-top: 210px;
 	font-family: 'Open Sans Condensed', sans-serif;	
 	font-size: 15pt;
 }
