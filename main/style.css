@@ -63,7 +63,7 @@ section {
 	position: relative;
 	float: right;
 	padding-top: 160px;
-	padding-right: -100px;
+	margin-right: -100px;
 }
 #resbuttons {
 	width: 200px;
