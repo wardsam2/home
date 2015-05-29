@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link type="text/css" rel="stylesheet" href="http://wardsam2.github.io/home/main/style.css"/>
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+      <meta charset="UTF-8">
+      <meta name="author" content="Samantha Ward">
+       <title>
+        Bike Safety: Samantha Ward's Portfolio
+       </title>
+    </head>
+       <body>
+         <div id="navbar">
+      <ul id="navlist">   
+        <li><a href="http://wardsam2.github.io/home/main/">about</a></li>
+          <li><a href="http://wardsam2.github.io/home/main/resume.html">resume</a></li>
+          <li><a href="http://wardsam2.github.io/home/main/portfolio.html">portfolio</a>
+          <ul>
+            <li><a href="http://wardsam2.github.io/home/main/writing.html">writing</a></li>
+            <li><a href="http://wardsam2.github.io/home/main/designs.html">designs</a></li>
+            <li><a href="http://wardsam2.github.io/home/main/videos.html">videos</a></li>
+          </ul>
+          </li>
+           </ul>
+    </div>
+       <header> </header>
+           <div id="portbuttons">
+      <a href="mailto:wardsam2@msu.edu"><img src="http://wardsam2.github.io/home/main/pictures/emailicon.png" alt="email"/></a>
+      <a href="https://www.linkedin.com/pub/samantha-ward/a2/1b0/601"><img src="http://wardsam2.github.io/home/main/pictures/linedinicon.png" alt="linkedin"/></a>
+      <a href="https://twitter.com/Sdubs14"><img src="http://wardsam2.github.io/home/main/pictures/twittericon.png" alt="twitter"/></a>
+     </div>
+       <div class="videos">
+      <iframe width="460" height="258" src="https://youtu.be/4hfnOgci2-g" 
+      allowfullscreen></iframe>
+       </div>
+      <section id="fsdes">
+    	A promotional video made in WRA 202 for the organization Nuestros Cuentos using Final Cut Pro.
+    	<p class="endlinks"><a href="http://wardsam2.github.io/home/main/videos.html">Back to Videos</a></p>
+    </section>
+    <footer>
+	<p id="footer2">Copyright &copy; Samantha Ward</p>
+     </footer>
+         </body>
+  </html>
