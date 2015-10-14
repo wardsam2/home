@@ -241,9 +241,9 @@ h3 {
 }
 /*footer*/
 footer {
-	background: grey;
+	background: white;
 	width: 1170px;
-	height: 30px;
+	height: 20px;
 	float: left;
 	text-align: center;
 	clear: both;
