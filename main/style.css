@@ -57,10 +57,14 @@ section {
 	font-size: 20pt;
 }
 #intro {
-	width:1200px;
-	height: 100px;
+	width:960px;
+	height: 500px;
 	background-color: red;
-	position: center;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 150px;
+	font-family: Pacifico, cursive; 
+	font-size: 20pt;
 }
 
 
