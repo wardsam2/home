@@ -59,7 +59,7 @@ section {
 #intro {
 	width:960px;
 	height: 50px;
-	position: relative;
+	position: absolute;
 	margin-left: 200px;
 	margin-top: 80px;
 	font-family: Pacifico, cursive; 
