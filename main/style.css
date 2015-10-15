@@ -60,6 +60,7 @@ section {
 	width:1160px;
 	height: 20px;
 	position: absolute;
+	float: left;
 	margin-left: 200px;
 	margin-top: 50px;
 }
