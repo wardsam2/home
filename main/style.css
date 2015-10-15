@@ -20,7 +20,7 @@ header {
 	position: absolute;
 }
 #navbar {
-	height: 705px;
+	height: 605px;
 	width: 100px;
 	background-color: white;
 	border-radius: 3px;
@@ -69,7 +69,7 @@ section {
 #letstalk {
 	font-family: Open Sans Condensed;
   	font-size: 20px;
-  	text-align: center;
+  	text-align: left;
 }
 
 
