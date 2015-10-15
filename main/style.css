@@ -58,7 +58,8 @@ section {
 }
 #intro {
 	width:1200px;
-	background: white;
+	height: 100px;
+	background-color: red;
 	position: center;
 }
 
