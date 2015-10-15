@@ -61,6 +61,7 @@ section {
 	height: 50px;
 	background-color: red;
 	position: relative;
+	float: right;
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
 }
