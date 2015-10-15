@@ -16,9 +16,8 @@ a:visited {
 header {
 	background-color: #177170;
 	width: 1000px;
-	height: 30px;
+	height: 10px;
 	position: absolute;
-	margin-left: 200px;
 }
 #navbar {
 	height: 705px;
