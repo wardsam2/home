@@ -60,7 +60,7 @@ section {
 	width:960px;
 	height: 500px;
 	background-color: red;
-	position: absolute;
+	position: relative;
 	margin-left: 600px;
 	margin-top: 150px;
 	font-family: Pacifico, cursive; 
