@@ -78,20 +78,20 @@ section {
 	width: 200px;
 	position: absolute;
 	float: right;
-	padding-top: 40px;
+	padding-top: 25px;
 	margin-left: 1060px;
 }
 #resbuttons {
 	width: 200px;
 	position: relative;
 	float: right;
-	padding-top: 40px;
+	padding-top: 25px;
 }
 #portbuttons {
 	width: 200px;
 	position: relative;
 	float: right;
-	padding-top: 40px;
+	padding-top: 25px;
 }
 h2 {
   float: left;
