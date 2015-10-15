@@ -58,11 +58,9 @@ section {
 }
 #intro {
 	width:960px;
-	height: 500px;
+	height: 50px;
 	background-color: red;
 	position: relative;
-	margin-left: 600px;
-	margin-top: 150px;
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
 }
