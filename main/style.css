@@ -56,6 +56,11 @@ section {
 	font-family: Pacifico, cursive; 
 	font-size: 20pt;
 }
+#intro {
+	width:1200px;
+}
+
+
 #buttons {
 	width: 200px;
 	position: absolute;
