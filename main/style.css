@@ -77,6 +77,10 @@ section {
 	position: absolute;
 }
 
+#logo {
+	position: relative;
+}
+
 #buttons {
 	width: 200px;
 	position: absolute;
