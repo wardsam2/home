@@ -74,9 +74,8 @@ section {
 }
 
 #linebreak {
-	position: relative;
+	float: right;
 }
-
 #logo {
 	position: absolute;
 }
