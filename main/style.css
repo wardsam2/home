@@ -73,6 +73,9 @@ section {
   	margin-left: 10px;
 }
 
+#linebreak {
+	position: absolute;
+}
 
 #buttons {
 	width: 200px;
