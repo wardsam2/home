@@ -71,6 +71,7 @@ section {
   	text-align: right;
   	float: left;
   	margin-left: 10px;
+  	margin-bottom: -20px;
 }
 
 #linebreak {
