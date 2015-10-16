@@ -78,9 +78,7 @@ section {
 }
 
 #logo {
-	position: relative;
-	margin-left: -20px;
-	margin-top: 30px;
+	position: absolute;
 }
 
 #buttons {
