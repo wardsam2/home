@@ -40,8 +40,8 @@ ul {
 	height: 300px;
 	width: 300px;
 	float: left;
-	margin-top: 150px;
-	margin-left: 170px;
+	margin-top: 140px;
+	margin-left: 140px;
 }
 section {
 	background: #E0DDDD;
@@ -85,7 +85,7 @@ section {
 	position: absolute;
 	float: right;
 	padding-top: 25px;
-	margin-left: 980px;
+	margin-left: 990px;
 }
 #resbuttons {
 	width: 200px;
