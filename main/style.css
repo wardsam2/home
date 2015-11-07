@@ -188,17 +188,18 @@ p {
 }
 #writing {
 	float: left;
-	margin-top: 200px;
+	margin-top: 150px;
+	margin-left: -500px;
 	position: absolute;
 }
 #design {
 	float: left;
-	margin-top: 200px;
+	margin-top: 150px;
 	position: absolute;
 }
 #video {
 	float: left;
-	margin-top: 200px;
+	margin-top: 150px;
 	position: relative;
 }
 
