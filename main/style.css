@@ -188,7 +188,7 @@ p {
 }
 #writing {
 	float: left;
-	position: relative;
+	position: absolute;
 	margin-left: 50px;
 	margin-top: 350px;
 }
