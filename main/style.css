@@ -281,6 +281,7 @@ footer {
 	text-align: center;
 	clear: both;
 	padding: 20px;
+	position: absolute;
 }
 
 footer p { 
