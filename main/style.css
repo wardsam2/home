@@ -124,6 +124,11 @@ p {
    text-align: left;
    margin-top: 5px;
 }
+
+#homephotos {
+	position: relative;
+}
+
 /*resume page*/
 #resumebody {
 	float: left;
