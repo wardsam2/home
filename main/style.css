@@ -93,11 +93,13 @@ section {
 	width: 200px;
 	position: relative;
 	float: right;
+	padding-top: 5px;
 }
 #portbuttons {
 	width: 200px;
 	position: relative;
 	float: right;
+	padding-top: 5px;
 }
 h2 {
   float: left;
