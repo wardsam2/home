@@ -118,7 +118,8 @@ h2 {
   display: inline;
 }
 #homephotos  li img{  
-  margin:0 auto; 
+  margin:0 auto;
+  margin-left: 10px;
   max-width:100%
 }
 
