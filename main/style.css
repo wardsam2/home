@@ -107,9 +107,7 @@ h2 {
 }
 
 #homephotos {
-	display: block;
-	float: left;
-	margin-right: 5px;
+	display: inline;
 }
 
 /*about page intro*/
