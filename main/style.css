@@ -107,7 +107,7 @@ h2 {
 }
 
 #homephotos {    
-  margin:0;
+  margin-right:20;
   padding:0;    
   list-style:none; 
   white-space: nowrap;
@@ -119,7 +119,6 @@ h2 {
 }
 #homephotos  li img{  
   margin:0 auto;
-  margin-left: 10px;
   max-width:100%
 }
 
