@@ -139,14 +139,6 @@ p {
    margin-top: 5px;
 }
 
-#homephotos {
-	position: absolute;
-	width: 300px;
-	height: 300px;
-	margin-left: 220px;
-	margin-top: 180px;
-}
-
 /*resume page*/
 #resumebody {
 	float: left;
