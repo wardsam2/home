@@ -106,14 +106,6 @@ h2 {
   margin-right: 90px;
 }
 
-#homephotos {    
-  margin:0;
-  padding:0;    
-  list-style:none; 
-  white-space: nowrap;
-  position:absolute;
- }
-
 #homephotos  li {  
   display: inline;
 }
