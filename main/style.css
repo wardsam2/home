@@ -9,7 +9,7 @@ a {
 	color: #000000;
 }
 a:hover {
-	background-color: #000000;
+	background-color: #ffffff;
 }
 a:visited {
 	color: #000000;
@@ -106,12 +106,19 @@ h2 {
   margin-right: 90px;
 }
 
+#homephotos {    
+  margin:0;
+  padding:0;    
+  list-style:none; 
+  white-space: nowrap;
+  position:absolute;
+ }
+ 
 #homephotos  li {  
   display: inline;
 }
 #homephotos  li img{  
   margin-right: 30px;
-  max-width:100%
 }
 
 /*about page intro*/
