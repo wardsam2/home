@@ -96,7 +96,7 @@ section {
 }
 #portbuttons {
 	width: 200px;
-	position: relative;
+	position: absolute;
 	float: right;
 }
 h2 {
