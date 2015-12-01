@@ -203,6 +203,24 @@ p {
 	margin-top: 20px;
 }
 /*portfolio*/
+
+#portlist {    
+  margin-top:200px;
+  margin-left: 200px;
+  padding:0;    
+  list-style:none; 
+  white-space: nowrap;
+  position:absolute;
+ }
+ 
+#portlist  li {  
+  display: inline;
+  margin-left: 55px;
+}
+#portlist  li img{  
+  margin-right: 30px;
+}
+
 #portfolio {
 	float: left;
 	margin-left: 450px;
