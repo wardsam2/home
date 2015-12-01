@@ -96,6 +96,8 @@ section {
 }
 #portbuttons {
 	width: 200px;
+	margin-left: 990px;
+	padding-top: 37px;
 	position: absolute;
 	float: right;
 }
