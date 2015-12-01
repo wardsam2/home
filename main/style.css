@@ -123,6 +123,23 @@ h2 {
   margin-right: 30px;
 }
 
+#homephotos2 {    
+  margin-top:370px;
+  margin-left: 200px;
+  padding:0;    
+  list-style:none; 
+  white-space: nowrap;
+  position:absolute;
+ }
+ 
+#homephotos2  li {  
+  display: inline;
+  margin-left: 55px;
+}
+#homephotos2  li img{  
+  margin-right: 30px;
+}
+
 /*about page intro*/
 p {
   font-family: Open Sans Condensed;
