@@ -91,7 +91,9 @@ section {
 }
 #resbuttons {
 	width: 200px;
-	position: relative;
+	margin-left: 990px;
+	padding-top: 37px;
+	position: absolute;
 	float: right;
 }
 #portbuttons {
